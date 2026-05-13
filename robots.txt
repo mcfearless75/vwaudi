@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://discountvwaudicentre.github.io/sitemap.xml
+Sitemap: https://mcfearless75.github.io/vwaudi/sitemap.xml
